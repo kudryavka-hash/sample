@@ -1,0 +1,15 @@
+#mainHeader {
+    text-align: center;
+    background-color: black;
+    color: yellowgreen;
+    padding: 10px;
+}
+#mainFooter {
+    text-align: center;
+    font-size: 20px;
+}
+#indexLink {
+    font-size: 30px;
+    text-align: center;
+    
+}
